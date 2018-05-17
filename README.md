@@ -11,4 +11,4 @@ $ npm start
 This will automatically start a local server at ``localhost:3000``  
 
 ### Demo 
-![]()
+![](https://github.com/vinill/reminder-pro/blob/master/animation.gif)
